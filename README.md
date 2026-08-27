@@ -1,7 +1,7 @@
 # Hi, I'm Vaishnavi 👋
 
 🎓 BTech Student  
-💻 Learning Python & DSA  
+💻 Learning Python & DSA & File Handling 
 🚀 Interested in Software Development  
 📚 Currently improving my problem-solving skills
 
